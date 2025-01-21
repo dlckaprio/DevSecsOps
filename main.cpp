@@ -1,6 +1,6 @@
 #include <stdio>
 
-int main(){
+int main(int *argc, int *argv[]){
 
   print("Hello World");
   
