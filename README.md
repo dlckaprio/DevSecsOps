@@ -1,3 +1,3 @@
 # DevSecsOps
 
-Hi, Im Luca
+Hi
